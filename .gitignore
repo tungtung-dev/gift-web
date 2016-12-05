@@ -1,0 +1,10 @@
+bower_components
+node_modules
+.editorconfig
+
+www/css/*.css
+www/js/*.js
+
+.idea
+
+**/*.DS_Store
